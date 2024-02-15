@@ -1,0 +1,1 @@
+A python based Info Retreivel System that can be used to find the matching words of your query in text files. The IRS is built using basic data structures of python that are lists, dictionary, set and tuples.
